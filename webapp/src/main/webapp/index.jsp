@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Thameem here </h1>
-  
+   <h1> Thameem ring 1 </h1>
+   <h1> Thameem ring 2 </h1>  
 </form>
